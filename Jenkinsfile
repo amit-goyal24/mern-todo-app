@@ -106,7 +106,7 @@ pipeline {
                         <p>Check the <a href="${env.BUILD_URL}">console output</a></p>
                     </body>
                 </html>""",
-                to: 'ananeysinghal04@gmail.com',
+                to: 'amitpvt0150@gmail.com',
                 mimeType: 'text/html'
             )
         }
