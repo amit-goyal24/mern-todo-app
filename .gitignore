@@ -1,0 +1,24 @@
+Dependency directories
+
+node_modules
+TODO/todo_frontend/node_modules
+TODO/todo_backend/node_modules
+
+Build artifacts
+
+build
+dist
+out
+
+logs
+
+.log
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+OS and environment files
+
+.DS_Store
+.env
+.idea/
